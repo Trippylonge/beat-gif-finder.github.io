@@ -1,0 +1,8 @@
+flask>=3.0
+flask-cors>=4.0
+requests>=2.31
+numpy>=1.24
+librosa>=0.10
+soundfile>=0.12
+rich>=13.0
+gunicorn>=21.2

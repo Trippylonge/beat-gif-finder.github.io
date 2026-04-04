@@ -1,0 +1,23 @@
+{
+  "_comment": "Copy this to config.json and fill in your API keys.",
+
+  "giphy": {
+    "api_key": "YOUR_GIPHY_API_KEY",
+    "_note": "Free at: https://developers.giphy.com  (100 req/day on free tier)"
+  },
+
+  "tenor": {
+    "api_key": "YOUR_TENOR_API_KEY",
+    "_note": "Free at: https://developers.google.com/tenor/guides/quickstart"
+  },
+
+  "youtube": {
+    "api_key": "YOUR_YOUTUBE_DATA_API_KEY",
+    "_note": "Free at: https://console.cloud.google.com  (YouTube Data API v3)"
+  },
+
+  "twitter": {
+    "bearer_token": "YOUR_TWITTER_BEARER_TOKEN",
+    "_note": "Requires Basic plan ($100/mo). Leave blank to skip."
+  }
+}
